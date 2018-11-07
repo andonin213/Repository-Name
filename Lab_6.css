@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+head {
+}
+body{
+	background-color:aliceblue;
+	text-align: center;
+	
+}
+#box{
+	height: 200px;
+	width: 200px;
+	position:relative; 
+	background-color: black;
+		
+	
+	
+}
+.bt{
+	border-radius: 15%;
+	font-size: 15px;
+	background-color:steelblue;
+	padding-left:10px; 
+	padding-top:5px;
+	padding-right: 10px; 
+	padding-bottom: 5px;
+	 
+}
